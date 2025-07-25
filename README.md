@@ -42,7 +42,6 @@
 ## التكاليف والمشاريع
 
 - [تنبى اسعار المنازل](https://github.com/Alqudimi/housing-price-prediction)
-- 
 - [تنبى امراض القلب](https://github.com/Alqudimi/hart-diseasis-prediction) 
 
 
