@@ -42,7 +42,9 @@
 ## التكاليف والمشاريع
 
 - [تنبى اسعار المنازل](https://github.com/Alqudimi/housing-price-prediction)
-- [تنبى امراض القلب](https://github.com/Alqudimi/hart-diseasis-prediction) 
+- [تنبى امراض القلب](https://github.com/Alqudimi/hart-diseasis-prediction)
+- [تنبى اسعار السيارات](https://github.com/Alqudimi/car-price-prediction)
+- [المشروع النهائي](https://github.com/Alqudimi/SurveillanceCameras) 
 
 
 ---
