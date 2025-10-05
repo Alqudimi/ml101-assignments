@@ -1,10 +1,17 @@
-https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
-https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
-https://img.shields.io/badge/XGBoost-3776AB?style=for-the-badge&logo=xgboost&logoColor=white
-https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white
-https://img.shields.io/badge/Joblib-8CA1AF?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
-https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/joblib-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="joblib"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+</p>
+
+---
+
 #  مقدمه
 
  أنا **عبدالعزيز محمد القديمي**، طالب برمجيات متخصص في الذكاء الاصطناعي وشغوف بالتقنية. أؤمن أن الشغف والتجربة هما أعظم معلمين، وأسعى دائمًا لاكتساب مهارات جديدة، سواء في تطوير الويب، الذكاء الاصطناعي، الأمن السيبراني، أو برمجة الأنظمة.
